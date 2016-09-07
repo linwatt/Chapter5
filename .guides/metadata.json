@@ -1,0 +1,173 @@
+{
+ "sections": [
+  {
+   "id": "e202ccac-f91b-141c-98f7-0d066a14153f",
+   "title": "User Interface",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/User-Interface-e202.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6a16c541-248e-2f93-6c05-8bcd554982ba",
+   "title": "Relative Layout - UI",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Relative-Layout---UI-6a16.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a417c005-ae58-b664-f466-7b4be0c2c39b",
+   "title": "Linear Layout - UI",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Linear-Layout---UI-a417.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6ffc8268-b8b6-df47-3276-8e8dfb81f665",
+   "title": "Grid Layout - UI",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Grid-Layout---UI-6ffc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "dd1871b0-4561-ef84-4fa3-8b4c5eb93142",
+   "title": "Relative Layout Code",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Relative-Layout-Code-dd18.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b243b634-8595-e6c6-3ec4-eefa86036bd6",
+   "title": "Padding Attributes",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Padding-Attributes-b243.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6522808e-e92e-8e00-873d-e920e0b64263",
+   "title": "Padding set in Dimension Resource File",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Padding-set-in-Dimension-Resource-File-6522.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3e981734-1b6f-1545-eb7a-4e999086fef8",
+   "title": "alignParent",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/alignParent-3e98.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "54bbb799-bafb-2eb9-476e-852aeaf2446a",
+   "title": "alignParent - UI",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/alignParent---UI-54bb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5d90854e-3c41-a6de-0146-b51136881cbe",
+   "title": "Common Attributes",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Common-Attributes-5d90.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "15aed80e-175f-55c9-8893-5ad0512ec383",
+   "title": "Common Attributes Continued",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Common-Attributes-Continued-15ae.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "86d3ff0d-7626-ad69-ca11-819f007e23a7",
+   "title": "Positioning Views Relative to Other Children Views",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Positioning-Views-Relative-to-Other-Children-Views-86d3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c8d81999-e587-bc3a-af04-051b7a0deacc",
+   "title": "More Attributes",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/More-Attributes-c8d8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "61bea5c6-e117-4d9d-697e-19f8b658d82a",
+   "title": "Margins",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Margins-61be.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9986b359-21db-7d7d-8de8-b4f33d695ff0",
+   "title": "Margin Attributes",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Margin-Attributes-9986.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
