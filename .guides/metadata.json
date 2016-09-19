@@ -644,6 +644,83 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false
+  },
+  {
+   "id": "3f046c81-ef33-d6c3-d2b9-b865aea6bc79",
+   "title": "Image views",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Image-views-3f04.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "03c3cf71-ae30-4f74-3341-e203c92add6c",
+   "title": "Drawable Folders",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Drawable-Folders-03c3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "068c1ac2-b376-e0e0-dc00-6371b9623c8d",
+   "title": "Displaying Images on Buttons",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Displaying-Images-on-Buttons-068c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "db771cc4-1f8c-cdc9-024a-b17e194bd9bd",
+   "title": "Image Button",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Image-Button-db77.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "99de5013-0034-cf13-fbc3-a1962ee37063",
+   "title": "Scroll Views",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Scroll-Views-99de.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "10b9ded8-4841-6b9b-3ba9-8ef7d3c55971",
+   "title": "Toasts",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Toasts-10b9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8c8e334f-cade-c8c9-3f73-3815bf5be8f8",
+   "title": "Recap",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recap-8c8e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",

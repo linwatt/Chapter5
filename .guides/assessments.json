@@ -29,5 +29,30 @@
     ]
    }
   }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4059366667",
+  "source": {
+   "name": "Images on Buttons",
+   "showName": true,
+   "instructions": "What would happen to the position of the image and text if you used the following attributes?",
+   "points": "1",
+   "showValues": true,
+   "text": "The **android:drawableBottom** attribute displays the image <<<underneath>>> the text\nThe **android:drawableTop** attribute displays the image <<<above>>> the text\n",
+   "tokens": {
+    "blank": [
+     "underneath",
+     "above"
+    ],
+    "text": [
+     "The **android:drawableBottom** attribute displays the image ",
+     0,
+     " the text\nThe **android:drawableTop** attribute displays the image ",
+     0,
+     " the text\n"
+    ]
+   }
+  }
  }
 ]
